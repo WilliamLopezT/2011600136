@@ -1,0 +1,16 @@
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.Properties.Resources.resources
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.csproj.GenerateResource.Cache
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.exe.config
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.exe
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.pdb
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\Clases.dll
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\Clases.pdb
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.csprojResolveAssemblyReference.cache
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.exe
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.pdb
+C:\Users\UskoKruM\Desktop\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.exe.config
+C:\Users\UskoKruM\Desktop\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.exe
+C:\Users\UskoKruM\Desktop\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.pdb
+C:\Users\UskoKruM\Desktop\2011600136\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.exe.config
+C:\Users\UskoKruM\Desktop\2011600136\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.exe
+C:\Users\UskoKruM\Desktop\2011600136\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.pdb

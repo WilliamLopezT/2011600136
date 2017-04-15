@@ -1,0 +1,4 @@
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\Clases\bin\Debug\Clases.dll
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\Clases\bin\Debug\Clases.pdb
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\Clases\obj\Debug\Clases.dll
+D:\Hard Drive\UK\C#\Proyectos\PaquetesTuristicos\PaquetesTuristicos\Clases\obj\Debug\Clases.pdb
